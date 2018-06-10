@@ -1,4 +1,4 @@
-2# **Developed software pipeline to detect and track the vehicle in camera image & video**
+## **Developed software pipeline to detect and track the vehicle in camera image & video**
 
 This is a project for Udacity Self-Driving Car Nanodegree program. In this project, I built the algorithm to detect and track the vehicle in an image and video, using OpenCV techniques which include Histogram of Oriented Gradients (HOG), color feature extraction algorithm. As training model and classifier, support vector machine (SVM) algorithm was used. The model is implemented in the file `Vehicle_Detection&Tracking_RYANKANG.ipynb`. 
 
